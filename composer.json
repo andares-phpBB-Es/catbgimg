@@ -1,5 +1,5 @@
 {
-    "name": "phpbbes/catbgimg",
+    "name": "andares-phpBB-Es/catbgimg",
     "type": "phpbb-extension",
     "description": "Very simple extension that allows add an image/icon in the background category (16 x 16 px. image recommended).",
     "homepage": "www.phpbb-es.com",
