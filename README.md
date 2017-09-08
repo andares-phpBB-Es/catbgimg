@@ -1,4 +1,4 @@
-# Category Background Image [![Build Status](https://travis-ci.org/andares-phpBB-Es/catbgimg.svg)](https://travis-ci.org/phpbb-extensions/catbgimg)
+# Category Background Image [![Build Status](https://travis-ci.org/andares-phpBB-Es/catbgimg.svg)](https://travis-ci.org/andares-phpBB-Es/catbgimg)
 Very simple extension that allows add an image/icon in the background category (16 x 16 px. image recommended).
 
 ## Corrección de errores
